@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TestAWS/TestAWS/obj/Debug
+/TestAWS/TestAWS/bin/Debug
+/TestAWS/.vs/TestAWS/v14
