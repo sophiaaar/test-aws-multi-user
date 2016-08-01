@@ -17,5 +17,20 @@ namespace TestAWS
             InitializeComponent();
             //test
         }
+
+        private void btnLogIn_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnCreateUser_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnManageUsers_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
